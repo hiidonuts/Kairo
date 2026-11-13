@@ -23,28 +23,6 @@ Marketing site for Kairo — a local-first study app
 
 ---
 
-<br />
-
-### Run locally
-
-<sub>Node.js required</sub>
-
-```bash
-npm install
-npm run dev
-```
-
-<br />
-
-### Build
-
-```bash
-npm run build
-npm run preview
-```
-
-<br />
-
-<sub>Built for calm focus · private by default</sub>
+<sub>Made by hiidonuts</sub>
 
 </div>
